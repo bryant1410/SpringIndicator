@@ -7,7 +7,7 @@ The sample app: [click me](https://github.com/chenupt/SpringIndicator/raw/master
 
 ![gif](https://raw.githubusercontent.com/chenupt/SpringIndicator/master/img/si_1.0.0.gif)
 
-#Usage
+# Usage
 ---
 Add the dependency to your build.gradle.
 ```
